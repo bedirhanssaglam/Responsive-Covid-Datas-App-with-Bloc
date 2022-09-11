@@ -10,7 +10,7 @@ First of all, we have two main builds in our lib folder. These are the view and 
 
 * **extensions:** This layer gives us some convenience. We have made the paths of our images ready for use with a simple extension here.
 
-**routes: This folder is where we define navigation actions.**
+* **routes:** This folder is where we define navigation actions.**
 
 **-view: This layer contains our pages. We can create a folder for each screen.**
 
